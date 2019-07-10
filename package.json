@@ -1,0 +1,24 @@
+{
+  "name": "mocha-travis-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stu01509/mocha-travis-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stu01509/mocha-travis-ci/issues"
+  },
+  "homepage": "https://github.com/stu01509/mocha-travis-ci#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "should": "^13.2.3"
+  }
+}
